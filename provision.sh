@@ -1,7 +1,3 @@
-# if you need the vbox additions for network sharing
-#sed -i 's/ main/ main contrib/g' /etc/apt/sources.list;
-#apt-get -y install virtualbox-guest-dkms;
-
 # grab the latest package versions list
 apt-get update;
 # install the latest version of the OS
